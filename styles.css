@@ -1,0 +1,74 @@
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+nav li a:hover{
+    background: black;
+    color: white;
+}
+body{
+    background-color: rgb(15, 26, 36);
+    background-image: url(images/burger.JPEG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  
+}
+header{
+    color: rgba(255, 255, 0, 0.719);
+    height: 118px;
+    text-align: center;
+    font-size: 70px;
+    padding-top: 50px;
+}
+nav{
+    background-color: rgba(17, 17, 17, 0.281);
+    height: 40px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+main{
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.596);
+    height: 100px;
+}
+h1{
+    color: white;
+    font-size: 84px;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: white;
+}
+nav a{
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.maps{
+   text-align: center;
+
+}
+footer p{
+font-size: 15px;
+padding-left: 30px;
+padding-right: 30px;
+padding-top: 40px;
+}
